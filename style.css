@@ -2,5 +2,6 @@ body{
     background-color: rgb(204, 186, 23);
 }
 header {
-    background-color: hwb(244 22% 27%);
+    background-color: #424E61;
+    color: white;
 }
